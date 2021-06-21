@@ -1,0 +1,1 @@
+This repository is a practice for the Git workflow learned in the Germain cohort for Codeup
